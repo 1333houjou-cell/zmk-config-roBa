@@ -138,7 +138,7 @@
 &tog 5    &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp SPACE  &mkp LCLK  &mkp RCLK      &kp BSPC  &kp RET                           &kp FSLH
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         ipad_airios {
